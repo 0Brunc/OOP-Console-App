@@ -8,7 +8,7 @@ At the time I was playing Hogwarts Legacy, I really like the franchise, so I dec
 ## Features
 
 - **Stat Management**: Track hunger, mood, and energy (0-20 scale).
-- **Caps min and max of status**: 'statCap' keeps the stats within their limits.
+- **Cap on min & max of stats**: 'statCap' keeps the stats within their limits.
 - **Interactive Actions**:
 - 'feed()'
 - 'snack()'
