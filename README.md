@@ -3,7 +3,7 @@
 Take care of magical beasts from the Harry Potter world!
 
 This is my first object-oriented(OOP) application using JavaScript.
-At the time I was playing Hogwarts Legacy, I really like the frenchise so I decided to make this app related to it :D.
+At the time I was playing Hogwarts Legacy, I really like the franchise, so I decided to make this app related to it :D.
 
 ## Features
 
