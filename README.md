@@ -14,4 +14,5 @@ At the time I was playing Hogwarts Legacy, I really like the frenchise so I deci
 - 'snack()'
 - 'play()'
 - 'nap()'
-- Note: The values that are added and retracted through actions may not be balanced.
+  
+Note: The values that are added and retracted through actions may not be balanced.
